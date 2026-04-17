@@ -18,7 +18,7 @@ This project demonstrates the integration of **Embedded Systems, IoT, Cloud Comm
 ---
 
 ## Block Diagram
-
+<img width="686" height="267" alt="image" src="https://github.com/user-attachments/assets/eb5a8b19-13d6-4671-8815-1142d93f567f" />
 
 ## Applications
 - Offices
